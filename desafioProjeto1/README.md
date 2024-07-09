@@ -1,0 +1,3 @@
+## Sistema Bancário em Java com AspectJ
+
+Este projeto implementa um sistema bancário em Java utilizando o paradigma Orientado a Objetos, com a verificação de saldo implementada através do paradigma Orientado a Aspectos utilizando AspectJ. O desafio surgiu como parte da Formação C e C++ Developer da DIO, e tem como objetivo simular operações de saque em diferentes tipos de contas bancárias (conta corrente, salário, poupança e investimento).
