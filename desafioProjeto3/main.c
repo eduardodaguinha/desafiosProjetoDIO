@@ -42,5 +42,6 @@ int main(void) {
         printf("Resultado da divisão: %.2f", resultado);
     }
 
+    system("pause");
     return 0;
 }
